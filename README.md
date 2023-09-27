@@ -13,7 +13,7 @@
 8. Display the employee table, salary_log table.
 
 ### Program:
-![image](https://github.com/rathishc12/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/120552008/f15db684-604a-46f2-a9a8-49d0b047a8fe)
+![image](https://github.com/Dineshkarthick27/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/120552008/f15db684-604a-46f2-a9a8-49d0b047a8fe)
 ### Create employee table:
 ![image](https://github.com/Dineshkarthick27/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/120552008/1dc14288-3b5c-43c2-bbf3-b58273c46a49)
 ### Create salary_log table
